@@ -1,9 +1,6 @@
 # 💫About Me :
-I'm a novice BackEnd developer from Brazil BR
 
-**About me**
-
-- 💼 First Lieutenant at Brazilian Navy
+- 🤖 Built AI/Agents Projects
 
 - 📈 Built Data Science Projects 
 
